@@ -101,8 +101,6 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "JDisord":
-    - "https://discord.gg/YTdycBXu28"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -115,6 +113,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Discord Server
     url: https://discord.gg/YTdycBXu28
+  - title: Webmap
+    url: https://map.spitter.space
 
 # Footer content
 # appears at the bottom of every page's main content
