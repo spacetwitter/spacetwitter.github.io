@@ -9,6 +9,8 @@ parent: Server Info
 
 **To play on the server, you need Minecraft Java Edition and the Fabric Mod Loader to begin with.**
 
+# If you have any problems, please [join the Discord](https://discord.gg/YTdycBXu28), get the event role from #event-info and mention me (@EmlynLJ) in the #event-chat channel. I'll try to help!
+
 The easiest way to sort out the mod loader is by using the app Modrinth. Modrinth is an app similar to CurseForge, however supports the open-source community better and is generally less annoying and has a much nicer UI. This guide will cover installing the Fabric Mod Loader via Modrinth.
 
 ## The Modrinth Method (Preferred if you don't know how mod loaders work or don't have Fabric already installed. If you have Fabric 1.20.1 already installed, skip to the [Modpack Installation page!](https://spitter.space/mc-info/modpack-install)
