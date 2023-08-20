@@ -14,6 +14,8 @@ parent: Server Info
 The easiest way to sort out the mod loader is by using the app Modrinth. Modrinth is an app similar to CurseForge, however supports the open-source community better and is generally less annoying and has a much nicer UI. This guide will cover installing the Fabric Mod Loader via Modrinth.
 
 ## The Modrinth Method (Preferred if you don't know how mod loaders work or don't have Fabric already installed. If you have Fabric 1.20.1 already installed, skip to the [Modpack Installation page!](https://spitter.space/mc-info/modpack-install)
+Modrinth Install
+{: .label .label-green }
 
 1) Install Modrinth App
 
@@ -31,6 +33,8 @@ At this point, you should be presented with a window that shows various modpacks
 
 
 ## The Raw Fabric Method (Slightly more difficult, only use if you can't use / don't want to use Modrinth!)
+Fabric Manual Install
+{: .label .label-yellow }
 
 This method will use the Fabric Loader Installer. It's a lot more barebones, however creates a profile in the normal Minecraft launcher.
 
