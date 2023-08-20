@@ -17,7 +17,7 @@ title: Spitter Community Events
 description: Events for the Space Twitter community. Done right.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://spitter.space" # the base hostname & protocol for your site, e.g. http://example.com
-repository: # for github-metadata
+repository: spacetwitter/spacetwitter.github.io # for github-metadata
 
 permalink: pretty
 
