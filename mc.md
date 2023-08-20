@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minecraft Info
+title: Minecraft Quick Links
 nav_order: 1
 description: "Spitter Minecraft"
 permalink: /mc
