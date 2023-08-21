@@ -37,7 +37,7 @@ Now, open your profile folder from the Minecraft launcher, and open the Mods fol
 
 Drag or copy the .jar files from the unzipped folder into the mods folder. 
 
-[: .warning }
+{: .warning }
 Do not drag the whole folder itself in, just the .jar files that are inside the folder need to be copied!
 
 Now try launching your Minecraft instance. If it loads and you can see the Mod Menu button and/or the Fabric (x amount of mods) text on the bottom left, you're good to go!
