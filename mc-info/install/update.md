@@ -16,7 +16,7 @@ parent: Server Info
 Modrinth Install
 {: .label .label-green }
 
-By far the easiest thing to do is to download the latest mcpack file from [here.](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.0/Spitter.Autumn.Fabric.Update1.1.1.0.mrpack)
+By far the easiest thing to do is to download the latest mcpack file from [here.](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.0/Spitter.Autumn.Fabric-update1x.1.1.3.mrpack)
 
 **However, this will create a completely new instance. I know this isn't ideal sometimes, so there's another option that lets you keep the same instance and your screenshots etc:**
 
@@ -27,7 +27,7 @@ Fabric Manual Install
 {: .label .label-yellow }
 
 
-The best way to do this is to download [the zip file here](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.0/Spitter.Autumn.Fabric.Update1.1.1.0-ONLY-UPDATED.zip). **This only contains the new mods added.**
+The best way to do this is to download [the zip file here](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.0/Spitter-1.1.3-ONLY-UPDATED.zip). **This only contains the new mods added.**
 
 This now means you can unzip it and just drag the new jar files into your current mods folder - don't delete the current mods!
 
