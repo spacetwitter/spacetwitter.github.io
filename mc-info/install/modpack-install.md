@@ -15,7 +15,7 @@ Modrinth Install
 {: .label .label-green }
 
 
-If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.x/Spitter.Autumn.Fabric-1.1.5.1.1.5.mrpack) will download the .mrpack file. 
+If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/download/v1.2.x/Spitter-Autumn-Fabric-Update1.2.0.1.2.0.mrpack) will download the .mrpack file. 
 
 Then, click the green plus button at the bottom left of your Modrinth App window. Select the "From File" option at the top of the popup and drag and drop or select your .mrpack file you downloaded.
 
@@ -29,7 +29,7 @@ Fabric Manual Install
 {: .label .label-yellow }
 
 
-If you installed Fabric manually, all you need to do is to download the zip file from [here](https://github.com/spacetwitter/spitter-mc/releases/download/v1.1.x/spitter-1.1.5.zip).
+If you installed Fabric manually, all you need to do is to download the zip file from [here](https://github.com/spacetwitter/spitter-mc/releases/download/v1.2.x/spitter-1.2.0.zip).
 
 You then need to extract it using the right click menu in your file manager of choice.
 
