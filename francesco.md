@@ -13,6 +13,16 @@ permalink: /fran
 
 ![francesco based pfp](https://cdn.discordapp.com/avatars/473981136998236182/c283fea93dc0d7681417302edf06b24d.png)
 
+# - cock lover
+
+![cock](https://cdn.discordapp.com/attachments/905171774537355316/1152326339962077264/image.png)
+
+![1984](https://cdn.discordapp.com/attachments/907359598351106151/1152325846925848647/Screenshot_2023-09-15_at_20.31.25.png)
+
+# - 1984 man
+
+## - dictator
+
 ### - Francesco
 
 ### - France
