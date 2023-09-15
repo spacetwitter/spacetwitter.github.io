@@ -19,6 +19,10 @@ permalink: /fran
 
 ![1984](https://cdn.discordapp.com/attachments/907359598351106151/1152325846925848647/Screenshot_2023-09-15_at_20.31.25.png)
 
+![1984v2](https://media.discordapp.net/attachments/907359598351106151/1152326870361194516/Screenshot_2023-09-15_at_3.35.09_PM.png)
+
+![1984v3](https://media.discordapp.net/attachments/907359598351106151/1152326870570913913/Screenshot_2023-09-15_at_3.34.56_PM.png)
+
 # - 1984 man
 
 ## - dictator
