@@ -15,11 +15,13 @@ Modrinth Install
 {: .label .label-green }
 
 
-If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/download/v1.2.x/Spitter-Autumn-Fabric-Update1.2.0.1.2.0.mrpack) will download the .mrpack file. 
+If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://drive.google.com/file/d/18LG674dX2gt9nzSRLywWVdutiCdXxdVp/view?usp=sharing) will download the latest zip file. 
 
-Then, click the green plus button at the bottom left of your Modrinth App window. Select the "From File" option at the top of the popup and drag and drop or select your .mrpack file you downloaded.
+Then, click the green plus button at the bottom left of your Modrinth App window. Click on the Fabric loader option and select the game version as Minecraft 1.20.2 (see the image below for guidance)
 
-The profile will then install automatically, and you will be able to launch the game from the Modrinth Library page!
+![](../../assets/images/instance-demo.png)
+
+Then copy and paste the mods from the zip file into the mods folder for Minecraft - click the "open folder" button in Modrinth to easily get access.
 
 So, now you're completely ready to go. Follow [this link to read how to connect to the server!](https://spitter.space/mc-info/connecting)
 
@@ -29,7 +31,7 @@ Fabric Manual Install
 {: .label .label-yellow }
 
 
-If you installed Fabric manually, all you need to do is to download the zip file from [here](https://github.com/spacetwitter/spitter-mc/releases/download/v1.2.x/spitter-1.2.0.zip).
+If you installed Fabric manually, all you need to do is to download the zip file from [here](https://drive.google.com/file/d/18LG674dX2gt9nzSRLywWVdutiCdXxdVp/view?usp=sharing).
 
 You then need to extract it using the right click menu in your file manager of choice.
 
