@@ -15,7 +15,7 @@ Modrinth Install
 {: .label .label-green }
 
 
-If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/tag/v2.0.1) will download the latest .mrpack or zip file. 
+If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/tag/v2.1.0) will download the latest .mrpack or zip file. 
 
 Then, click the green plus button at the bottom left of your Modrinth App window. Click on the Fabric loader option and select the game version as Minecraft 1.20.2 (see the image below for guidance)
 
@@ -35,7 +35,7 @@ Fabric Manual Install
 {: .label .label-yellow }
 
 
-If you installed Fabric manually, all you need to do is to download the zip file from [here](https://github.com/spacetwitter/spitter-mc/releases/tag/v2.0.1).
+If you installed Fabric manually, all you need to do is to download the zip file from [here](https://github.com/spacetwitter/spitter-mc/releases/tag/v2.1.0).
 
 You then need to extract it using the right click menu in your file manager of choice.
 
