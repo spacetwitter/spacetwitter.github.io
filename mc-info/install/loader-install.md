@@ -9,11 +9,11 @@ parent: Server Info
 
 **To play on the server, you need Minecraft Java Edition and the Fabric Mod Loader to begin with.**
 
-# If you have any problems, please [join the Discord](https://discord.gg/YTdycBXu28), get the event role from #event-info and mention me (@EmlynLJ) in the #event-chat channel. I'll try to help!
+# If you have any problems, please [join the Discord](https://discord.gg/E9xAeYZxaF)!
 
 The easiest way to sort out the mod loader is by using the app Modrinth. Modrinth is an app similar to CurseForge, however supports the open-source community better and is generally less annoying and has a much nicer UI. This guide will cover installing the Fabric Mod Loader via Modrinth.
 
-## The Modrinth Method (Preferred if you don't know how mod loaders work or don't have Fabric already installed. If you have Fabric 1.20.1 already installed, skip to the [Modpack Installation page!](https://spitter.space/mc-info/pack-install)
+## The Modrinth Method (Preferred if you don't know how mod loaders work or don't have Fabric already installed. If you've already got Modrinth installed, skip to the [Modpack Installation page!](https://spitter.space/mc-info/pack-install)
 Modrinth Install
 {: .label .label-green }
 
@@ -29,7 +29,7 @@ It is pretty self-explanatory what to do. You can create a Modrinth account if y
    
 Then, you need to log into your Microsoft account to confirm you own Minecraft. This is secure.
 
-At this point, you should be presented with a window that shows various modpacks etc, the home screen of Modrinth. If so, you can move onto the next article, ["How to install the modpack"](https://spitter.space/mc-info/pack-install)!
+At this point, you should be presented with a window that shows various modpacks etc, the home screen of Modrinth. If so, you can move onto the next page, ["How to install the modpack"](https://spitter.space/mc-info/pack-install)!
 
 
 ## The Raw Fabric Method (Slightly more difficult, only use if you can't use / don't want to use Modrinth!)
