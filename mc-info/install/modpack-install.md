@@ -17,7 +17,7 @@ Modrinth Install
 
 If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/tag/summer24-v1.0.x) will download the latest .mrpack or zip file. 
 
-Then, click the green plus button at the bottom left of your Modrinth App window. Click on the Fabric loader option and select the game version as Minecraft 1.20.2 (see the image below for guidance)
+Then, click the green plus button at the bottom left of your Modrinth App window. Click on the Fabric loader option and select the game version as Minecraft 1.20.1 (see the image below for guidance)
 
 ![](../../assets/images/instance-demo.png)
 
