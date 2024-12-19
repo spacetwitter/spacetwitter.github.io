@@ -8,11 +8,10 @@ permalink: /mc
 
 # Space Twitter Minecraft Server - Quick Links
 
-[Modpack Installation Instructions](/mc-info/loader-install){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .cursor-not-allowed .opacity-50 }
-[Discord Server](https://discord.gg/E9xAeYZxaF){: .btn .fs-5 .mb-4 .mb-md-0 }
-[View the Webmap](https://map.spitter.space){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Modpack: COMING SOON](/mc){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 .cursor-not-allowed .opacity-50 }
+[Discord Server](https://discord.gg/E9xAeYZxaF){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
+[Webmap UNLOCKING SOON](/mc){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-### Server IP (Install the mods first!)
-## `mc.spitter.space` 
-
-We also have a creative test server: `build.spitter.space`
+### Server Launching Soon
+## The server is scheduled to launch on Saturday 21st December at 22:00 UTC.
+The modpack will be released soon. In the meantime, [join the Discord](https://discord.gg/E9xAeYZxaF) for updates and announcements. 
