@@ -17,7 +17,7 @@ Modrinth Install
 {: .label .label-green }
 
 
-If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](/mc) will download the latest .mrpack or zip file. 
+If you installed Modrinth, it's really easy to get your mods setup. Clicking [this](https://github.com/spacetwitter/spitter-mc/releases/tag/winter24-v1.0) will download the latest .mrpack or zip file. 
 
 Then, click the green plus button at the bottom left of your Modrinth App window. Click on the Fabric loader option and select the game version as Minecraft 1.20.1 (see the image below for guidance)
 
@@ -37,13 +37,8 @@ Fabric Manual Install
 {: .label .label-yellow }
 
 
-If you installed Fabric manually, all you need to do is to download the zip file from [here](/mc).
+If you installed Fabric manually, you will need to ask someone in the [Discord](https://discord.gg/pkFverFgRy) to send you their mods folder.
 
-You then need to extract it using the right click menu in your file manager of choice.
-
-Now, open your profile folder from the Minecraft launcher, and open the Mods folder within. 
-
-Drag or copy the .jar files from the unzipped folder into the mods folder. 
 
 {: .warning }
 Do not drag the whole folder itself in, just the .jar files that are inside the folder need to be copied!
