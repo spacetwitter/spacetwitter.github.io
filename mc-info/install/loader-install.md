@@ -7,6 +7,8 @@ permalink: /mc-info/loader-install/
 parent: Server Info
 ---
 
+# The server has not released yet. Do not follow this information currently.
+
 **To play on the server, you need Minecraft Java Edition and the Fabric Mod Loader to begin with.**
 
 # If you have any problems, please [join the Discord](https://discord.gg/E9xAeYZxaF)!
